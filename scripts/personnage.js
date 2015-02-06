@@ -2,6 +2,7 @@
  * Constructeur de la classe Personnage
  * @param object element Element contenant Zelda
  * @param object lava Element de la lave
+ * code nul
  */
 var Personnage = function (element, lava) {
     this.posTop = parseInt(element.style.top);
